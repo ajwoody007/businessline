@@ -1,7 +1,5 @@
 <?php
 
-	/* this file is now part of github */
-
 	$mymemberID		= 	$_SESSION["memberSPLSWID"];	
 	$user_id 		=  	$_SESSION["memberSPLSWID"];	
 
