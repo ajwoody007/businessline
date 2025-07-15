@@ -1,7 +1,5 @@
 <?php
 
-	// make a change to this file
-
 	$mymemberID		= 	$_SESSION["memberSPLSWID"];	
 	$user_id 		=  	$_SESSION["memberSPLSWID"];	
 
