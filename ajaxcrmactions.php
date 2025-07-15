@@ -1,6 +1,6 @@
 <?php
 
-	include ("../../includes/includes.php");
+include ("../../includes/includes.php");
     include ("../mdl/crm_mdl.php");
 
 	ini_set('display_errors', 1);
